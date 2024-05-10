@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BreezeForge:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BreezeForge_jar</output-path>
+    <root id="archive" name="BreezeForge.jar">
+      <element id="module-output" name="BreezeForge" />
+    </root>
+  </artifact>
+</component>
